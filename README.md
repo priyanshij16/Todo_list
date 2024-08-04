@@ -17,13 +17,13 @@ MongoDB installed and running.
 A code editor like Visual Studio Code.
 
  To start the Application :
- npm i 
- For Server : npm start 
- For Client : npm run dev 
+    npm i 
+    For Server : npm start 
+    For Client : npm run dev 
  
-The client will run on :: http://localhost:5173/ 
+      The client will run on :: http://localhost:5173/ 
 
-     API Endpoints
+  API Endpoints
     To-Do Items
     GET /api/todos: Retrieve all to-do items.
     POST /api/todos: Create a new to-do item.
