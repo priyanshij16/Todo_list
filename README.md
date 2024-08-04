@@ -18,6 +18,7 @@ A code editor like Visual Studio Code.
 
  To start the Application :
     npm i 
+    
     For Server : npm start 
     For Client : npm run dev 
  
